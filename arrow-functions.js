@@ -20,4 +20,5 @@ const somarNumerosPequenos = (num1, num2) => {
     }
 }  
 
-// se comporta como HOISTING do mesmo jeito que expressão de função, ou seja temos que declarar elas no começo do código, pois senão conseguiriamos usar em qualquer lugar como o modo de declaração de função.
+// se não tem suporte do HOISTING do mesmo jeito que expressão de função, ou seja temos que declarar elas no começo do código, pois senão conseguiriamos usar em qualquer lugar como o modo de declaração de função.
+
